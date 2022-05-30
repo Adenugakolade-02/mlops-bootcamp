@@ -1,0 +1,6 @@
+.vscode
+.ipynb_checkpoints
+
+mlruns
+mlflow.db
+artifacts
