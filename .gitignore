@@ -4,3 +4,6 @@
 mlruns
 mlflow.db
 artifacts
+*.parquet
+*.bin
+*.b
